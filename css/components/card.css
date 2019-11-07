@@ -52,6 +52,9 @@
 .card-logo {
   padding-bottom: 20px;
 }
+.card-logo img {
+  max-width: 130px ;
+}
 
 .card-title-footer {
   font-size: 15px;
