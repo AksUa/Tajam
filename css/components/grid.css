@@ -1,0 +1,24 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;  
+  margin: -16px;
+}
+
+.grid > .grid-item { 
+  padding: 16px;
+}
+
+.grid-works > .grid-item {
+  width: 16.66%;
+}
+
+.grid-item-border-right {
+  border-right: 1px solid #ebebeb;
+}
+
+.grid-item-border-bottom {
+  border-bottom: 1px solid #ebebeb;
+}
+.grid-works .grid-item {
+  padding: 0;
+}
